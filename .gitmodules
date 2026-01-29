@@ -1,0 +1,3 @@
+[submodule "thirdParty/cmake"]
+	path = thirdParty/cmake
+	url = git@github.com:yjcx/cmake.git

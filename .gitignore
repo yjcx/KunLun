@@ -1,0 +1,59 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.make
+
+# Compiled output
+*.exe
+*.out
+*.app
+*.so*
+*.dylib
+*.dll
+
+# Object files
+*.o
+*.obj
+*.lo
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# iFlow CLI configuration
+.iflow/
+
+# Cache and temporary files
+.cache/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Generated documentation (if using Doxygen)
+docs/html/
+docs/latex/
